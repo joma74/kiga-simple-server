@@ -15,6 +15,15 @@ body {
 }
 
 img {
+    position:relative;
+    z-index:-1;
+}
+
+#headerimg {
+	border-radius: 10px;
+}
+
+img {
 	height: 1em;
 }
 
@@ -26,12 +35,18 @@ p {
 </head>
 <body>
 	<div id="container">
-		<p>
-			3 <img src="PC.png" alt="PC Bild">
+		<p id="headerimg">
+			<img src="kidsonpc.jpg" alt="PC Bild" style="border-radius: 50%;">
 		</p>
-		<p>
-			1 <img src="Tablet.png" alt="Tablet Bild">
+		<p style="display: block" id="tablet"
+			onclick="this.style.display='none'; document.getElementById('pc').style.display='block';">
+			<img src="Tablet.png" alt="Tablet Bild"> ?
 		</p>
+		<p style="display: none" id="pc"
+			onclick="this.style.display='none'; document.getElementById('tablet').style.display='block';">
+			<img src="PC.png" alt="PC Bild"> ?
+		</p>
+
 	</div>
 </body>
 </html>
