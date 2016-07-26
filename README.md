@@ -10,7 +10,10 @@ Next i asked them how many of each the kids have at home by hand sign. I counted
 
 After that i presented them the web page on the laptop and on the tablet. As it was a larger group some stood behind me on the laptop and some behind the tablet in the other direction. 
 ![alt Er arbeitet Computer](KIGA-Group.JPG)
-That web page displayed those hardware factors as icons and a count, intially 0. Each hardware factor inside the same lower section, which changed on-click. Asked the oldest kid to read the 0 number to the group.
+
+That web page displayed those hardware factors as icons and a count, intially ?. 
+![alt Web Page Screenshot](KIGA-web-page.png)
+Each hardware factor inside the same lower section, which changed on-click. Asked the oldest kid to read the ? to the group.
 
 No i told the kids that i want their numbers to appear on that web page. Therefore i had to explain to the computer what i want first by inputting, telling them that reading and writing is important to work with computers.
 
