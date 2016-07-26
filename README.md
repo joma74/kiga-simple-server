@@ -4,7 +4,7 @@
 
 I was offered to talk about my job at the kindergarden. This is how i managed to excite them for "computers".
 
-So I prepared this project and brought my laptop, tablet and mobile with me. That got their immediate attention. Before i started anything up i explained to them about those different "computers" - that are hardware factors - and how they are visually different.
+I prepared this project and brought my laptop, tablet and mobile with me. That got their immediate attention. Before i started anything up i explained to them about those different "computers" - that are hardware factors - and how they are visually different.
 
 Next i asked them how many of each the kids have at home by hand sign. I counted the numbers and noted them down.
 
